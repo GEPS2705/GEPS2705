@@ -31,7 +31,7 @@ I am a Senior Professional with 15 years of experience managing complex construc
 ---
 
 ### 📫 Connect with me
-- [LinkedIn]: (https://www.linkedin.com/in/gerardopuente/)
-- [Portfolio/Website]: (**Under_Construction**)
+- [LinkedIn](https://www.linkedin.com/in/gerardopuente/)
+- [Portfolio/Website](**Under_Construction**)
 
 *"Transforming physical landscapes through digital insights."*
