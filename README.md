@@ -16,13 +16,13 @@ I am a Senior Professional with 15 years of experience managing complex construc
 
 ### 🛠️ Tech Stack & Tools
 - **Data Analysis:** Excel (Advanced), SQL (In-progress), Python (In-progress).
-- **Project Management:** Agile, Scrum, Lean Construction, Google Project Management.
+- **Project Management:** ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white), ![Scrum](https://img.shields.io/badge/Scrum-636363?style=for-the-badge&logo=scrumalliance&logoColor=white), Lean Construction![Lean](https://img.shields.io/badge/Lean_Construction-D32F2F?style=for-the-badge&logo=lean&logoColor=white), Google Project Management ![Google_PM](https://img.shields.io/badge/Google_Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white).
 - **Visualization:** IBM Cognos, Dashboards, BIM (Building Information Modeling).
 - **Infrastructure:** IT Support, System Troubleshooting.
 ### 🛠️ Tech Stack & Tools
 
 **Project Management & Frameworks**
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 ![Scrum](https://img.shields.io/badge/Scrum-636363?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Lean](https://img.shields.io/badge/Lean_Construction-D32F2F?style=for-the-badge&logo=lean&logoColor=white)
 
