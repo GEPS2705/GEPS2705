@@ -15,27 +15,11 @@ I am a Senior Professional with 15 years of experience managing complex construc
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Data Analysis:** Excel (Advanced), SQL (In-progress), Python (In-progress).
-- **Project Management:** ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white), ![Scrum](https://img.shields.io/badge/Scrum-636363?style=for-the-badge&logo=scrumalliance&logoColor=white), Lean Construction![Lean](https://img.shields.io/badge/Lean_Construction-D32F2F?style=for-the-badge&logo=lean&logoColor=white), Google Project Management ![Google_PM](https://img.shields.io/badge/Google_Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white).
-- **Visualization:** IBM Cognos, Dashboards, BIM (Building Information Modeling).
+- **Data Analysis:** ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) (Advanced), ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) (In-progress), ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) (In-progress).
+- **Project Management:** ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white), ![Scrum](https://img.shields.io/badge/Scrum-636363?style=for-the-badge&logo=scrumalliance&logoColor=white), ![Lean](https://img.shields.io/badge/Lean_Construction-D32F2F?style=for-the-badge&logo=lean&logoColor=white).
+- **Visualization:** ![IBM_Cognos](https://img.shields.io/badge/IBM_Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white), Dashboards, BIM (Building Information Modeling).
 - **Infrastructure:** IT Support, System Troubleshooting.
-### 🛠️ Tech Stack & Tools
-
-**Project Management & Frameworks**
-
-![Scrum](https://img.shields.io/badge/Scrum-636363?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Lean](https://img.shields.io/badge/Lean_Construction-D32F2F?style=for-the-badge&logo=lean&logoColor=white)
-
-**Data Analytics & Programming**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![IBM_Cognos](https://img.shields.io/badge/IBM_Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-
-**Certifications**
-![Google_PM](https://img.shields.io/badge/Google_Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google_IT](https://img.shields.io/badge/Google_IT_Support-34A853?style=for-the-badge&logo=google&logoColor=white)
-![IBM_Data_Analyst](https://img.shields.io/badge/IBM_Data_Analyst-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+- **Certifications:** ![Google_PM](https://img.shields.io/badge/Google_Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white), ![Google_IT](https://img.shields.io/badge/Google_IT_Support-34A853?style=for-the-badge&logo=google&logoColor=white), ![IBM_Data_Analyst](https://img.shields.io/badge/IBM_Data_Analyst-052FAD?style=for-the-badge&logo=ibm&logoColor=white).
 
 ---
 
